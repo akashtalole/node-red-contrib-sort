@@ -1,0 +1,29 @@
+{
+  "name": "node-red-contrib-sort",
+  "version": "1.0.1",
+  "description": "NodeRED sort node",
+  "main": "sort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashtalole/node-red-contrib-sort.git"
+  },
+  "keywords": [
+    "node-red"
+  ],
+  "node-red": {
+    "nodes": {
+      "sample": "sort.js"
+    }
+  },
+  "author": "Akash Talole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akashtalole/node-red-contrib-sort/issues"
+  },
+  "homepage": "https://github.com/akashtalole/node-red-contrib-sort#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
